@@ -1,0 +1,5 @@
+arr1=input("Arr1 = ")
+arr1.split(" ")
+arr2=input("Arr2 = ")
+arr2.split(" ")
+arr3=input("Values = ")
